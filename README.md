@@ -1,7 +1,9 @@
 ## Локальный запуск
 
-### `npm install`
-### `npm start`
+```
+    npm install
+    npm start
+```
 
 ## ТЗ для frontnend разработчика
  
