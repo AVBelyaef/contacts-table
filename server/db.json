@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "test@mail.com",
+      "password": 123456,
+      "name": "dyadya Igor"
+    },
+    {
+      "id": 2,
+      "email": "admin@mail.com",
+      "password": 123456,
+      "name": "dyadya Vasya"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Василий",
+      "phone": "89059059595",
+      "email": "vasya@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Мария",
+      "phone": "89998887766",
+      "email": "masha@mail.ru",
+      "id": 12
+    },
+    {
+      "name": "Игорь",
+      "phone": "89119109595",
+      "email": "igor@mail.ru",
+      "id": 22
+    },
+    {
+      "name": "Екатерина",
+      "phone": "89209119291",
+      "email": "katy@ya.ru",
+      "id": 23
+    }
+  ]
+}
