@@ -16,13 +16,13 @@
   "contacts": [
     {
       "name": "Василий",
-      "phone": "89059059595",
-      "email": "vasya@gmail.com",
+      "phone": "890133333",
+      "email": "vasya@gmail.ri",
       "id": 2
     },
     {
       "name": "Мария",
-      "phone": "89998887766",
+      "phone": "2999888776",
       "email": "masha@mail.ru",
       "id": 12
     },
@@ -33,9 +33,9 @@
       "id": 22
     },
     {
-      "name": "Екатерина",
-      "phone": "89209119291",
-      "email": "katy@ya.ru",
+      "name": "Катя",
+      "phone": "81111122222",
+      "email": "kate@ya.ru",
       "id": 23
     }
   ]
