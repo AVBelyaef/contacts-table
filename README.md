@@ -2,7 +2,8 @@
 
 ```
     npm install
-    npm start
+    cd client && npm install
+    cd .. && npm start
 ```
 
 ## ТЗ для frontnend разработчика
